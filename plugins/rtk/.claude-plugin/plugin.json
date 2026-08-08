@@ -1,0 +1,11 @@
+{
+  "name": "rtk",
+  "description": "RTK (Rust Token Killer) usage rules: meta commands, install checks, and when to bypass the filter with rtk proxy",
+  "version": "1.0.0",
+  "author": {
+    "name": "jdaviddenman"
+  },
+  "license": "MIT",
+  "keywords": ["rtk", "tokens", "cli", "proxy", "tooling", "cost"],
+  "skills": ["./skills/rtk"]
+}
