@@ -1,0 +1,11 @@
+{
+  "name": "orwell",
+  "description": "Plain-English writing discipline from Orwell's six rules: cut dead metaphors, long words, padding, needless passives, and jargon",
+  "version": "1.0.0",
+  "author": {
+    "name": "jdaviddenman"
+  },
+  "license": "MIT",
+  "keywords": ["writing", "prose", "style", "plain-english", "editing", "orwell"],
+  "skills": ["./skills/orwell"]
+}

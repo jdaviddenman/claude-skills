@@ -1,0 +1,24 @@
+{
+  "name": "claude-skills",
+  "id": "claude-skills",
+  "owner": {
+    "name": "jdaviddenman"
+  },
+  "metadata": {
+    "description": "Personal Claude Code skills",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "orwell",
+      "source": "./",
+      "description": "Plain-English writing discipline from Orwell's six rules: cut dead metaphors, long words, padding, needless passives, and jargon",
+      "version": "1.0.0",
+      "author": {
+        "name": "jdaviddenman"
+      },
+      "keywords": ["writing", "prose", "style", "plain-english", "editing", "orwell"],
+      "category": "workflow"
+    }
+  ]
+}
