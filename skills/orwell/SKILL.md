@@ -38,6 +38,18 @@ Active on every response once triggered. It does not lapse after many turns. Sti
 
 **Rule 5 — everyday words.** utilise the paradigm→use the model; ipso facto→therefore; vis-à-vis→about; ameliorate→improve; heuristic→rule of thumb; orthogonal→unrelated; instantiate→create. Keep a technical term when it is the precise name for the thing — a mutex is a mutex. Swap it only when a plain word means the same.
 
+## Self-grading hedges (a special case of Rule 3)
+
+Cut phrases that rate your own honesty, clarity, effort, or the value of what you are saying, rather than saying it. They add nothing, and by claiming a virtue they imply the surrounding text might lack it — "stated honestly" suggests the rest was not.
+
+Kill: stated honestly, to be clear, in plain terms, honestly, frankly, the real X (the real gap, the real question), worth doing anyway, worth noting, worth stating, which is the point, needless to say, the honest figure, let me be direct, the truth is. Also cut section headings built from them ("Severity, stated honestly" → "Severity"; "Why this is worth doing anyway" → "Why fix it").
+
+Bad: "Severity, stated honestly: nothing here is a live compromise."
+Good: "Severity: nothing here is a live compromise."
+
+Bad: "The real gap is that the full stack was never scanned."
+Good: "The full stack was never scanned."
+
 ## What this does not touch
 
 Code, identifiers, file paths, commands, API names, quoted error text, log lines, and direct quotations stay exactly as they are. Technical terms with no plain equivalent stay. Clarity beats brevity: if cutting a word makes a sentence ambiguous, keep the word (rule 6).
@@ -70,5 +82,6 @@ Read your draft back and ask, in this order:
 4. Is this image fresh enough to have an effect?
 5. Could I put it more shortly?
 6. Have I said anything that is avoidably ugly?
+7. Have I graded my own honesty, clarity, or effort instead of just being honest, clear, or done?
 
 If a sentence fails, rewrite it. Do not patch it.

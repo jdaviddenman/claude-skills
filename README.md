@@ -15,6 +15,10 @@ commit messages, comments, PR bodies, replies:
 5. Never use a foreign phrase, a scientific word, or a jargon word if you can think of an everyday English equivalent.
 6. Break any of these rules sooner than say anything outright barbarous.
 
+Since 1.1.0 it also cuts **self-grading hedges** — phrases that rate the writing's own honesty, clarity, or
+effort instead of just being it ("stated honestly", "to be clear", "the real X", "worth doing anyway"), and
+section headings built from them.
+
 Code, identifiers, paths, commands, quoted errors, and log output are left alone.
 
 ## rtk
